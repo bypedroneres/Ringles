@@ -1,5 +1,6 @@
-# Ringles - Plataforma de Cursos Online
+# Backend Login Form
 
+<<<<<<< HEAD
 ![Capa](public/assets/cover.png)
 
 Bem-vindo ao repositório do projeto Ringles, uma plataforma de cursos online onde os alunos podem aprender sobre marketing digital e finanças no conforto de suas casas. Este projeto foi desenvolvido com Node.js e agora está hospedado no GitHub Pages, oferecendo uma experiência de aprendizado de qualidade para os usuários.
@@ -34,3 +35,6 @@ Este projeto é licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICE
 Se você tiver alguma dúvida ou sugestão, entre em contato conosco em [contato@ringles.com](mailto:contato@ringles.com).
 
 Agradecemos por usar a plataforma Ringles para aprender e compartilhar conhecimento em marketing digital e finanças!
+=======
+Once you clone it make sure you run 'npm install' command to install all libraries mention in package.json file.
+>>>>>>> 33d0d52 (updated the login)
