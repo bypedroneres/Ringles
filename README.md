@@ -1,8 +1,5 @@
 # Backend Login Form
 
-<<<<<<< HEAD
-![Capa](public/assets/cover.png)
-
 Bem-vindo ao repositório do projeto Ringles, uma plataforma de cursos online onde os alunos podem aprender sobre marketing digital e finanças no conforto de suas casas. Este projeto foi desenvolvido com Node.js e agora está hospedado no GitHub Pages, oferecendo uma experiência de aprendizado de qualidade para os usuários.
 
 ## Acesso à Plataforma
